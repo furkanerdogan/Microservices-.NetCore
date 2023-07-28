@@ -1,0 +1,24 @@
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\bin\Debug\net6.0\Course.Shared.deps.json
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\bin\Debug\net6.0\Course.Shared.dll
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\bin\Debug\net6.0\Course.Shared.pdb
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.AssemblyInfo.cs
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.dll
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\refint\Course.Shared.dll
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.pdb
+C:\Users\furka\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net6.0\ref\Course.Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\bin\Debug\net6.0\Course.Shared.deps.json
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\bin\Debug\net6.0\Course.Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\bin\Debug\net6.0\Course.Shared.pdb
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\refint\Course.Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\Course.Shared.pdb
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\net6.0\ref\Course.Shared.dll
