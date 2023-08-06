@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rzh6WRI6hRhoWomGQrdSRZZMpsWk8osoHeRLLDBC8PcOK6SB+2yAoR2FU3970HCLrWCg+F3cnxJAe+9UNRGyQ==",
+  "dgSpecHash": "qqh+rbtHLGY8Wbr0+WTO2KW4pB9vvhK0ClZn4rrFcslNI3sz1fYObSDPc01D2yHFX1IJyNwtyYA0Tb/euJICYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices-.NetCore\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

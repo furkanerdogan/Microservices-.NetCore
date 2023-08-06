@@ -7297,11 +7297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices-.NetCore\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
       "projectName": "Course.IdentityServer",
-      "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices-.NetCore\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
+      "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices-.NetCore\\IdentityServer\\Course.IdentityServer\\obj\\",
+      "outputPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\IdentityServer\\Course.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7323,8 +7323,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices-.NetCore\\Course.Shared\\Course.Shared.csproj": {
-              "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices-.NetCore\\Course.Shared\\Course.Shared.csproj"
+            "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\Course.Shared\\Course.Shared.csproj": {
+              "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\Course.Shared\\Course.Shared.csproj"
             }
           }
         }
