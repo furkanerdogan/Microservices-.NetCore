@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "DAOMcKIrbsdLvuWusdoXV0f8AIQHcg547ZhBNZaWbTk=",
+  "Source": "Course.Services.PhotoStock",
+  "BasePath": "_content/Course.Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\Microservices\\Services\\Catalog\\Course.Services.Catalog\\Course.Services.Catalog.csproj",
+      "Version": 2,
+      "Source": "Course.Services.Catalog",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Course.Services.PhotoStock\\wwwroot",
+      "Source": "Course.Services.PhotoStock",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\Microservices\\Services\\PhotoStock\\Course.Services.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/Course.Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

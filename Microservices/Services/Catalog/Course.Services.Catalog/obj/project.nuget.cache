@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PR2SyAVYKLQlWk4ZvcYBoiAOSmLl5Uyu3naGtb3NEO5LOLiWfJeUUESX7xGyTxPsj4L+0qpCwhkk/aEqyn6sUA==",
+  "dgSpecHash": "LtXrMCPGWlwPtul3gsDxriJeZZ2cnbmvCtqYeko+EMOxz3ZtqG0cckQ3+D69SYreYuBBSNSdRd1/9soEuc70IQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\Services\\Catalog\\Course.Services.Catalog\\Course.Services.Catalog.csproj",
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\Microservices\\Microservices\\Services\\Catalog\\Course.Services.Catalog\\Course.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

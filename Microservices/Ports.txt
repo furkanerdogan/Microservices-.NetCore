@@ -1,2 +1,5 @@
-Service
-Catalog.Api > http://localhost:5011
+Services
+	-catalogAPI=>  5011
+	-photostockAPI => 5012
+	
+identityserver=> 5001

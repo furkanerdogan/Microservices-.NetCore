@@ -3,3 +3,13 @@ C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microserv
 C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.AssemblyInfoInputs.cache
 C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.AssemblyInfo.cs
 C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices-.NetCore\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\bin\Debug\netcoreapp3.1\Course.Shared.deps.json
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\bin\Debug\netcoreapp3.1\Course.Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\bin\Debug\netcoreapp3.1\Course.Shared.pdb
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\Microservices\Microservices\Shared\Course.Shared\obj\Debug\netcoreapp3.1\Course.Shared.pdb
